@@ -1,0 +1,3 @@
+{'name': 'tt', 'iqquiz': 0, 'snake': 10}
+{'name': 'muhammad', 'iqquiz': 8, 'snake': 16}
+{'name': 'ffefef', 'iqquiz': 0, 'snake': 4}
